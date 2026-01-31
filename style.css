@@ -22,7 +22,7 @@
 }
 
 .logo{
-    background-image:url("images/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     background-size:cover;
     height:50px;
     width:100%;
@@ -158,7 +158,7 @@
 /* ================= HERO ================= */
 
 .hero{
-    background-image:url("images/hero_image.jpg");
+    background-image:url("hero_image.jpg");
     background-size:cover;
     height:350px;
     display:flex;
@@ -211,16 +211,16 @@
     color:#03158f;
 }
 
-/* ================= BOX IMAGES ================= */
+/* ================= BOX IMAGES (ROOT PATH) ================= */
 
-.img1{background-image:url("images/box1_image.jpg");}
-.img2{background-image:url("images/box2_image.jpg");}
-.img3{background-image:url("images/box3_image.jpg");}
-.img4{background-image:url("images/box4_image.jpg");}
-.img5{background-image:url("images/box5_image.jpg");}
-.img6{background-image:url("images/box6_image.jpg");}
-.img7{background-image:url("images/box7_image.jpg");}
-.img8{background-image:url("images/box8_image.jpg");}
+.img1{background-image:url("box1_image.jpg");}
+.img2{background-image:url("box2_image.jpg");}
+.img3{background-image:url("box3_image.jpg");}
+.img4{background-image:url("box4_image.jpg");}
+.img5{background-image:url("box5_image.jpg");}
+.img6{background-image:url("box6_image.jpg");}
+.img7{background-image:url("box7_image.jpg");}
+.img8{background-image:url("box8_image.jpg");}
 
 .img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
     height:320px;
@@ -284,7 +284,7 @@ ul p{
 }
 
 .logo2{
-    background-image:url("images/amazon_logo.png");
+    background-image:url("amazon_logo.png");
     background-size:cover;
     height:50px;
     width:100px;
